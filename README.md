@@ -10,7 +10,7 @@ The starter code has been refactored to meet the requirements in the challenge u
 
 For this challenge the following have been used and referred to for assistance and guidance.
 
-<img src="./assets/images/accessibility.png">
+<img src="./assets/images/accessibility.png">  
 
 Bootcampspot - Class Slides - Class Zoom recordings - Week 1 Module guide - Week 1 Activies - Office hours
 
