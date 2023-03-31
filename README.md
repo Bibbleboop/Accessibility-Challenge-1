@@ -1,16 +1,13 @@
-
-
-**Module 1 Challenge Accessibility**
-
-
+# Module 1 Challenge Accessibility
+https://bibbleboop.github.io/Accessibility-Module-1-Challenge/
 
 **HTML CSS Git Challenge: Code Refractor**
 
 The starter code has been refactored to meet the requirements in the challenge user story and acceptance criteria.
 
-For this challenge the following have been used and referred to for assistance and guidance.
-
 <img src="./assets/images/Accessibility.png">  
+
+For this challenge the following have been used and referred to for assistance and guidance.
 
 Bootcampspot - Class Slides - Class Zoom recordings - Week 1 Module guide - Week 1 Activies - Office hours
 
